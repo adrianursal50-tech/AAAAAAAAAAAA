@@ -1,0 +1,378 @@
+{
+  "CODM-3TV8Z-DH6CQ-3U4YW-S15ML": {
+    "days": 0,
+    "lines": 10000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-08T01:10:56.822477",
+    "activated_by": 7730348602,
+    "activated_at": "2026-08-08T01:11:42.664052",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-DYLO2-HQ7HO-NZC2H-8A96S": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-08T23:01:06.272126",
+    "activated_by": 8201775315,
+    "activated_at": "2026-08-08T23:33:39.332220",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-09T00:01:34.028642",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-TRHON-QJL6E-WG444-RUHOB": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-08T23:01:19.760470",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-YADUR-5F12N-T5UWW-P7XTF": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-08T23:01:21.173791",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-SNUFB-SY7LF-2PVJ8-P8MAC": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-08T23:01:22.209766",
+    "activated_by": 8201775315,
+    "activated_at": "2026-08-08T23:15:31.297300",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-08T23:32:32.091044",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-9UC7C-IPTLI-ARWX2-3MACJ": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T00:38:44.390411",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-QT84Z-6A507-3TF33-3MUW0": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T00:42:18.871545",
+    "activated_by": 7030640619,
+    "activated_at": "2026-08-10T00:43:45.426272",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-10T01:25:27.473903",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-EYJLD-JBLMK-91380-8MK10": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T00:45:58.765217",
+    "activated_by": 8526658733,
+    "activated_at": "2026-08-10T00:47:02.570309",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-EXEYH-WRKLF-7C90P-ZSAX7": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T00:49:37.442280",
+    "activated_by": 7261080978,
+    "activated_at": "2026-08-10T00:49:59.760271",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-7158C-2WF3V-SDC1Q-ZCGZH": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T00:53:04.981540",
+    "activated_by": 8705198224,
+    "activated_at": "2026-08-10T00:57:55.573100",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-10T01:25:28.512493",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-D631F-LVCN3-XE0AD-XG0EG": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:31.987323",
+    "activated_by": 8705198224,
+    "activated_at": "2026-08-10T01:29:20.608425",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-7NRC7-4WBAH-G37UD-CHFFJ": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:31.991341",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-ALPC8-DLY10-CFYFL-ZDRDL": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:31.996266",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-W496D-8HAKP-LHOXK-0GKZE": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.001229",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-IVB4L-YT22B-4HRVZ-KJ651": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.013118",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-BQZQ0-8L86G-C5KOG-XEC1H": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.020013",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-2Q33V-MERSR-JJD0V-E14R7": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.024114",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-OFKGI-K9VJT-WDS3W-JC1DG": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.029277",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-5DFBY-WEM3Y-DZBXI-0BJUV": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.035047",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-O3ZCU-VP2ST-HLC8D-KHXQ6": {
+    "days": 0,
+    "lines": 200,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:28:32.039847",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-LJ0G9-L19CE-GHAX9-55JPX": {
+    "days": 0,
+    "lines": 500,
+    "created_by": 6486076735,
+    "created_at": "2026-08-10T01:43:58.247781",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-WV05J-R72CU-Y90XB-DIB4Y": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-14T21:36:11.376270",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-W62DD-NSSTM-ZI00J-A2JEC": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-14T22:01:58.161367",
+    "activated_by": 8934809822,
+    "activated_at": "2026-08-14T22:03:15.999290",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-14T22:03:19.117755",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-YLPH1-B3GY5-0N65Q-K9ZU1": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.239545",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-UMBPC-DVECL-CYMB0-4JMMO": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.247975",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-A9J6G-Z4QLN-UXWCN-XUJZX": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.254796",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-8XLYU-37NB9-W0NM5-KD49C": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.260244",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-DVE2X-P8XEA-4IDBA-TISLF": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.265822",
+    "activated_by": 8638454473,
+    "activated_at": "2026-08-16T00:52:57.670578",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-16T00:53:51.658113",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-AUVZQ-H44GB-HSTX1-XVY16": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.271103",
+    "activated_by": 8638454473,
+    "activated_at": "2026-08-16T00:59:57.715908",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-0OD87-P0MVL-5IFCX-N1I7M": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.276506",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-OP3SF-D3MEF-D9SXN-65BXI": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.281920",
+    "activated_by": 6024416327,
+    "activated_at": "2026-08-16T00:52:49.673581",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-16T00:52:50.539787",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-VWDG5-SO5UP-9Y6NI-27AN9": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.286794",
+    "activated_by": 6024416327,
+    "activated_at": "2026-08-16T01:00:25.072636",
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-J5V8Y-KM22S-J8UYG-DI5EU": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T00:50:33.292243",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-LVLNG-9RQZJ-21CPP-T3Q7G": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-16T11:57:01.802025",
+    "activated_by": null,
+    "activated_at": null,
+    "key_expires": null,
+    "revoked": false
+  },
+  "CODM-LA6MP-5HJO0-P8XT7-9CLOH": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-18T14:35:37.490525",
+    "activated_by": 6985727969,
+    "activated_at": "2026-08-18T16:01:43.066675",
+    "key_expires": null,
+    "revoked": true,
+    "revoked_at": "2026-08-18T16:01:45.957056",
+    "revoked_reason": "auto-revoke: not in feedbacked database"
+  },
+  "CODM-MS4KK-SI085-071XI-JBBAI": {
+    "days": 0,
+    "lines": 50000,
+    "created_by": 6486076735,
+    "created_at": "2026-08-18T16:04:54.323216",
+    "activated_by": 6985727969,
+    "activated_at": "2026-08-18T16:22:16.764306",
+    "key_expires": null,
+    "revoked": false
+  }
+}
