@@ -45,10 +45,10 @@ DB_PATH        = os.environ.get("DB_PATH", "shin.db")
 # ── CN31 ──────────────────────────────────────────────────────────
 SOLVER_URL      = os.environ.get(
     "SOLVER_URL",
-    "https://solar-solver-production.up.railway.app",
+    "https://solar-solver-production.up.railway.app/get-token",
 )
 # REQUIRED. Must be a real, reachable URL. Set it in env.
-CN31_ENDPOINT   = os.environ.get("CN31_ENDPOINT", "/get-token").strip() or None
+CN31_ENDPOINT   = os.environ.get("CN31_ENDPOINT", "").strip() or None
 CN31_AUTH_STYLE = os.environ.get("CN31_AUTH_STYLE", "header")  # header|query|bearer
 CN31_AUTH_KEY   = os.environ.get("CN31_AUTH_KEY", "Authorization")
 TOKEN_SAFETY    = float(os.environ.get("TOKEN_SAFETY", "60"))
